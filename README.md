@@ -159,7 +159,7 @@ Keamanan adalah prioritas. **Jangan umbar kerentanan secara publik.**
 
 ## 📄 Lisensi
 
-Proyek ini dilisensikan di bawah **GNU General Public License v3.0 (atau versi lebih baru)**. Lihat [license.txt](https://github.com/mokesano/kumparanwp/blob/main/license.txt) untuk teks lengkap.
+Proyek ini dilisensikan di bawah **MIT License (atau versi lebih baru)**. Lihat [license.txt](https://github.com/mokesano/kumparanwp/blob/main/license.txt) untuk teks lengkap.
 
 | Izin | Ketentuan |
 | :--- | :--- |
