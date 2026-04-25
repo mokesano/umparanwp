@@ -172,8 +172,8 @@ Proyek ini dilisensikan di bawah **GNU General Public License v3.0 (atau versi l
 
 | 🏷️ Atribusi | 🔗 Referensi |
 | :--- | :--- |
-| **Pengembang Tema** | [WizdamApp](https://wizdam.sangia.org/) |
-| **Maintainer** [Wizdam Archon (archoun)](https://github.com/archoun) | [Rochmady (mokesano)](https://github.com/mokesano) |
+| **Pengembang Tema** | [Wizdam Archon (archoun)](https://github.com/archoun) |
+| **Maintainer** | [Rochmady (mokesano)](https://github.com/mokesano) |
 | **Terinspirasi oleh** | [Kumparan.com](https://kumparan.com) |
 | **Lisensi** | [GPL v3.0](http://www.gnu.org/licenses/gpl-3.0.html) |
 
