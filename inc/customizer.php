@@ -1,8 +1,8 @@
 <?php 
 
 function addCustomize($wp_customize) {
-	$wp_customize->add_panel( 'ThemesappPos', array(
-	  'title' => 'Themesapp',
+	$wp_customize->add_panel( 'WizdamappPos', array(
+	  'title' => 'Wizdamapp',
 	  'priority' => 162,
 	));
 
@@ -11,7 +11,7 @@ function addCustomize($wp_customize) {
 		$wp_customize->add_section( 'color', array(
 	    	'title' => 'Warna Situs',
 		  	'description'=> 'Warna-warna yang ada dibawah ini adalah warna umum yang digunakan pada tema. Ubah warna-warna tersebut sesuai dengan selera dan keinginan anda.',
-			'panel' => 'ThemesappPos',
+			'panel' => 'WizdamappPos',
 	    ));
 	    $wp_customize->add_setting( 'color1' , array(
 	        'default'     => "#04a4a4",
@@ -69,7 +69,7 @@ function addCustomize($wp_customize) {
 		$wp_customize->add_section( 'custommenu', array(
 	    	'title' => 'Custom Menu',
 		  	'description'=> 'Warna-warna yang ada dibawah ini adalah warna yang dipakai pada widget custom menu',
-			'panel' => 'ThemesappPos',
+			'panel' => 'WizdamappPos',
 	    ));
 	    $wp_customize->add_setting( 'menu1' , array(
 	        'default'     => "#dc1641",
@@ -124,7 +124,7 @@ function addCustomize($wp_customize) {
 		/* ARCHIVE */
 		$wp_customize->add_section( 'stylearchive' , array(
 		  'title'      => 'Style Archive', 
-		  'panel' => 'ThemesappPos',
+		  'panel' => 'WizdamappPos',
 		  'description'=> 'Secara default template menggunakan style list. Berikut ini adalah pengaturan style custom di halaman archive',
 		));
 		$wp_customize->add_setting( 'stylearchivegrid' , array(
@@ -180,7 +180,7 @@ function addCustomize($wp_customize) {
 		/* UNGGULAN */
 		$wp_customize->add_section( 'featuredimage' , array(
 		  'title'      => 'Gambar Unggulan', 
-		  'panel' => 'ThemesappPos',
+		  'panel' => 'WizdamappPos',
 		  'description'=> 'Berikut ini adalah pengaturan gambar unggulan pada halaman pos dan page',
 		));
 		$wp_customize->add_setting( 'featuredimageactivepos' , array(
@@ -215,7 +215,7 @@ function addCustomize($wp_customize) {
 		/* REDAKSI */
 		$wp_customize->add_section( 'timredaksi' , array(
 		  'title'      => 'Tim Redaksi',     
-		  'panel' => 'ThemesappPos',
+		  'panel' => 'WizdamappPos',
 		  'description'=> 'Berikut ini adalah pengaturan tampilan untuk tim redaksi yang terdiri dari pengaturan penulis, editor, dan reporter',
 		));
 
@@ -270,7 +270,7 @@ function addCustomize($wp_customize) {
 		/* SHARE */
 		$wp_customize->add_section( 'tombolbagikan' , array(
 		  'title'      => 'Tombol Bagikan',     
-		  'panel' => 'ThemesappPos',
+		  'panel' => 'WizdamappPos',
 		  'description'=> 'Berikut ini adalah pengaturan tampilan untuk popup tombol share. Disini kamu bisa mengatur tombol mana yang ingin kamu aktifkan',
 		));
 		$wp_customize->add_setting( 'tombolsharetitle' , array(
@@ -335,7 +335,7 @@ function addCustomize($wp_customize) {
 		/* TOMBOL BANTUAN */
 		$wp_customize->add_section( 'tombolbantuan' , array(
 		  'title'      => 'Tombol Bantuan', 
-		  'panel' => 'ThemesappPos',
+		  'panel' => 'WizdamappPos',
 		  'description'=> 'Berikut ini adalah pengaturan tombol bantuan, seperti tombol darkmode, lightmode, dan homepage',
 		));
 		$wp_customize->add_setting( 'darkmode' , array(
@@ -362,7 +362,7 @@ function addCustomize($wp_customize) {
 		/* BACAJUGA */
 		$wp_customize->add_section( 'bacajuga' , array(
 		  'title'      => 'Baca Juga',     
-		  'panel' => 'ThemesappPos',
+		  'panel' => 'WizdamappPos',
 		  'description'=> 'Berikut ini adalah pengaturan tampilan untuk tim redaksi yang terdiri dari pengaturan penulis, editor, dan reporter',
 		));
 
@@ -404,7 +404,7 @@ function addCustomize($wp_customize) {
 		$wp_customize->add_section( 'licPost' , array(
 		  'title'      => 'Lisensi',     
 		  'description'=> '',
-		  'panel' => 'ThemesappPos',
+		  'panel' => 'WizdamappPos',
 		));
 
 		$wp_customize->add_setting( 'lic' , array(
