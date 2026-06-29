@@ -168,17 +168,6 @@ Proyek ini dilisensikan di bawah **MIT License (atau versi lebih baru)**. Lihat 
 
 ---
 
-## 🙏 Kredit & Pengakuan
-
-| 🏷️ Atribusi | 🔗 Referensi |
-| :--- | :--- |
-| **Pengembang Tema** | [Wizdam Archon (archoun)](https://github.com/archoun) |
-| **Maintainer** | [Rochmady (mokesano)](https://github.com/mokesano) |
-| **Terinspirasi oleh** | [Kumparan.com](https://kumparan.com) |
-| **Lisensi** | [GPL v3.0](http://www.gnu.org/licenses/gpl-3.0.html) |
-
----
-
 <p align="center">
   <br>
   <sub>Dibangun dengan ❤️ untuk ekosistem media digital Indonesia</sub>
